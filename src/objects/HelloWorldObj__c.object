@@ -154,9 +154,9 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
-        <fullName>DreamWorldField__c</fullName>
+        <fullName>HelloWorldField__c</fullName>
         <externalId>false</externalId>
-        <label>DreamWorldField</label>
+        <label>HelloWorldField</label>
         <length>40</length>
         <required>false</required>
         <trackHistory>false</trackHistory>
@@ -164,18 +164,18 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
-    <label>DreamWorldObj</label>
+    <label>HelloWorldObj</label>
     <listViews>
         <fullName>All</fullName>
         <filterScope>Everything</filterScope>
         <label>All</label>
     </listViews>
     <nameField>
-        <label>DreamWorldObj Name</label>
+        <label>HelloWorldObj Name</label>
         <trackHistory>false</trackHistory>
         <type>Text</type>
     </nameField>
-    <pluralLabel>DreamWorldObjs</pluralLabel>
+    <pluralLabel>HelloWorldObjs</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
