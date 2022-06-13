@@ -5,6 +5,10 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Contact.Year_of_Class__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
         <members>College__c</members>
         <members>Employee__c</members>
         <members>Pan_Card__c</members>
