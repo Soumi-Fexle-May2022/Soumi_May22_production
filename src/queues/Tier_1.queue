@@ -4,10 +4,9 @@
     <email>som.sfpurpose@gmail.com</email>
     <name>Tier 1</name>
     <queueMembers>
-        <users>
-            <user>samplestandarduser1@gmail.com</user>
-            <user>soumi.chakraborty@fexle.com.training.staging</user>
-        </users>
+        <roles>
+            <role>SVPSalesMarketing</role>
+        </roles>
     </queueMembers>
     <queueSobject>
         <sobjectType>Case</sobjectType>
